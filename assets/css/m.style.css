@@ -1,0 +1,36 @@
+html,
+body {
+    font: normal 1em sans-serif, arial, helvetica;
+    text-align: center;
+}
+
+.details {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    margin: 0 auto;
+    overflow: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+
+.Copyright {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    margin: 0 auto;
+    overflow: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+}
+
+.note {
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    margin: 0 auto;
+    overflow: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
