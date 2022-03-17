@@ -19,7 +19,7 @@ body {
     z-index: -10;
     zoom: 1;
     background-color: #fff;
-    background: url(../img/m_bg.jpg) no-repeat;
+    background: url(../img/m_bg.png) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
